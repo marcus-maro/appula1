@@ -1,0 +1,2096 @@
+[
+    {
+        "Time": 0.133,
+        "RPM": 11259,
+        "Speed": 285,
+        "Throttle": 100
+    },
+    {
+        "Time": 0.413,
+        "RPM": 11353,
+        "Speed": 286,
+        "Throttle": 100
+    },
+    {
+        "Time": 0.573,
+        "RPM": 11357,
+        "Speed": 287,
+        "Throttle": 100
+    },
+    {
+        "Time": 0.773,
+        "RPM": 11406,
+        "Speed": 289,
+        "Throttle": 100
+    },
+    {
+        "Time": 1.213,
+        "RPM": 11489,
+        "Speed": 291,
+        "Throttle": 100
+    },
+    {
+        "Time": 1.373,
+        "RPM": 11547,
+        "Speed": 291,
+        "Throttle": 100
+    },
+    {
+        "Time": 1.573,
+        "RPM": 11554,
+        "Speed": 293,
+        "Throttle": 100
+    },
+    {
+        "Time": 1.773,
+        "RPM": 11005,
+        "Speed": 293,
+        "Throttle": 100
+    },
+    {
+        "Time": 2.013,
+        "RPM": 10320,
+        "Speed": 293,
+        "Throttle": 100
+    },
+    {
+        "Time": 2.173,
+        "RPM": 10450,
+        "Speed": 294,
+        "Throttle": 100
+    },
+    {
+        "Time": 2.333,
+        "RPM": 10530,
+        "Speed": 295,
+        "Throttle": 100
+    },
+    {
+        "Time": 2.653,
+        "RPM": 10546,
+        "Speed": 295,
+        "Throttle": 100
+    },
+    {
+        "Time": 3.012,
+        "RPM": 10592,
+        "Speed": 297,
+        "Throttle": 100
+    },
+    {
+        "Time": 3.172,
+        "RPM": 10612,
+        "Speed": 297,
+        "Throttle": 100
+    },
+    {
+        "Time": 3.412,
+        "RPM": 10680,
+        "Speed": 298,
+        "Throttle": 100
+    },
+    {
+        "Time": 3.652,
+        "RPM": 10650,
+        "Speed": 298,
+        "Throttle": 100
+    },
+    {
+        "Time": 3.892,
+        "RPM": 10674,
+        "Speed": 299,
+        "Throttle": 100
+    },
+    {
+        "Time": 4.093,
+        "RPM": 10694,
+        "Speed": 300,
+        "Throttle": 100
+    },
+    {
+        "Time": 4.613,
+        "RPM": 10740,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 4.813,
+        "RPM": 10752,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 4.973,
+        "RPM": 10724,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 5.133,
+        "RPM": 10734,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 5.613,
+        "RPM": 10734,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 5.773,
+        "RPM": 10725,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 6.013,
+        "RPM": 10615,
+        "Speed": 301,
+        "Throttle": 100
+    },
+    {
+        "Time": 6.413,
+        "RPM": 10684,
+        "Speed": 300,
+        "Throttle": 100
+    },
+    {
+        "Time": 6.813,
+        "RPM": 10687,
+        "Speed": 299,
+        "Throttle": 100
+    },
+    {
+        "Time": 7.213,
+        "RPM": 9694,
+        "Speed": 280,
+        "Throttle": 0
+    },
+    {
+        "Time": 7.413,
+        "RPM": 9234,
+        "Speed": 255,
+        "Throttle": 0
+    },
+    {
+        "Time": 7.733,
+        "RPM": 8870,
+        "Speed": 230,
+        "Throttle": 0
+    },
+    {
+        "Time": 7.973,
+        "RPM": 9330,
+        "Speed": 230,
+        "Throttle": 0
+    },
+    {
+        "Time": 8.173,
+        "RPM": 9886,
+        "Speed": 183,
+        "Throttle": 0
+    },
+    {
+        "Time": 8.333,
+        "RPM": 9115,
+        "Speed": 154,
+        "Throttle": 0
+    },
+    {
+        "Time": 8.613,
+        "RPM": 9324,
+        "Speed": 130,
+        "Throttle": 0
+    },
+    {
+        "Time": 8.933,
+        "RPM": 7715,
+        "Speed": 110,
+        "Throttle": 0
+    },
+    {
+        "Time": 9.173,
+        "RPM": 6891,
+        "Speed": 101,
+        "Throttle": 0
+    },
+    {
+        "Time": 9.413,
+        "RPM": 6332,
+        "Speed": 89,
+        "Throttle": 0
+    },
+    {
+        "Time": 9.652,
+        "RPM": 5661,
+        "Speed": 87,
+        "Throttle": 0
+    },
+    {
+        "Time": 9.852,
+        "RPM": 5383,
+        "Speed": 79,
+        "Throttle": 0
+    },
+    {
+        "Time": 10.172,
+        "RPM": 5004,
+        "Speed": 74,
+        "Throttle": 0
+    },
+    {
+        "Time": 10.573,
+        "RPM": 4676,
+        "Speed": 69,
+        "Throttle": 1
+    },
+    {
+        "Time": 10.733,
+        "RPM": 4956,
+        "Speed": 66,
+        "Throttle": 1
+    },
+    {
+        "Time": 10.933,
+        "RPM": 5321,
+        "Speed": 67,
+        "Throttle": 25
+    },
+    {
+        "Time": 11.173,
+        "RPM": 5515,
+        "Speed": 72,
+        "Throttle": 27
+    },
+    {
+        "Time": 11.413,
+        "RPM": 5989,
+        "Speed": 78,
+        "Throttle": 39
+    },
+    {
+        "Time": 11.613,
+        "RPM": 6251,
+        "Speed": 83,
+        "Throttle": 43
+    },
+    {
+        "Time": 11.773,
+        "RPM": 6596,
+        "Speed": 85,
+        "Throttle": 51
+    },
+    {
+        "Time": 12.013,
+        "RPM": 7399,
+        "Speed": 96,
+        "Throttle": 60
+    },
+    {
+        "Time": 12.173,
+        "RPM": 7670,
+        "Speed": 100,
+        "Throttle": 70
+    },
+    {
+        "Time": 12.653,
+        "RPM": 9392,
+        "Speed": 125,
+        "Throttle": 92
+    },
+    {
+        "Time": 12.893,
+        "RPM": 10052,
+        "Speed": 139,
+        "Throttle": 92
+    },
+    {
+        "Time": 13.213,
+        "RPM": 8817,
+        "Speed": 146,
+        "Throttle": 77
+    },
+    {
+        "Time": 13.373,
+        "RPM": 9252,
+        "Speed": 151,
+        "Throttle": 78
+    },
+    {
+        "Time": 13.613,
+        "RPM": 10057,
+        "Speed": 151,
+        "Throttle": 84
+    },
+    {
+        "Time": 13.813,
+        "RPM": 10255,
+        "Speed": 163,
+        "Throttle": 91
+    },
+    {
+        "Time": 14.013,
+        "RPM": 10726,
+        "Speed": 168,
+        "Throttle": 94
+    },
+    {
+        "Time": 14.253,
+        "RPM": 11193,
+        "Speed": 177,
+        "Throttle": 100
+    },
+    {
+        "Time": 14.453,
+        "RPM": 11548,
+        "Speed": 187,
+        "Throttle": 100
+    },
+    {
+        "Time": 14.813,
+        "RPM": 11548,
+        "Speed": 191,
+        "Throttle": 100
+    },
+    {
+        "Time": 15.133,
+        "RPM": 10799,
+        "Speed": 203,
+        "Throttle": 100
+    },
+    {
+        "Time": 15.333,
+        "RPM": 11095,
+        "Speed": 209,
+        "Throttle": 100
+    },
+    {
+        "Time": 15.573,
+        "RPM": 11173,
+        "Speed": 216,
+        "Throttle": 100
+    },
+    {
+        "Time": 15.773,
+        "RPM": 11404,
+        "Speed": 220,
+        "Throttle": 100
+    },
+    {
+        "Time": 16.053,
+        "RPM": 11752,
+        "Speed": 227,
+        "Throttle": 100
+    },
+    {
+        "Time": 16.372,
+        "RPM": 10551,
+        "Speed": 233,
+        "Throttle": 100
+    },
+    {
+        "Time": 16.852,
+        "RPM": 10821,
+        "Speed": 242,
+        "Throttle": 100
+    },
+    {
+        "Time": 17.052,
+        "RPM": 10984,
+        "Speed": 245,
+        "Throttle": 100
+    },
+    {
+        "Time": 17.213,
+        "RPM": 11140,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 17.573,
+        "RPM": 11306,
+        "Speed": 253,
+        "Throttle": 100
+    },
+    {
+        "Time": 17.853,
+        "RPM": 11485,
+        "Speed": 257,
+        "Throttle": 100
+    },
+    {
+        "Time": 18.133,
+        "RPM": 11194,
+        "Speed": 260,
+        "Throttle": 100
+    },
+    {
+        "Time": 18.453,
+        "RPM": 10555,
+        "Speed": 264,
+        "Throttle": 100
+    },
+    {
+        "Time": 18.893,
+        "RPM": 10635,
+        "Speed": 268,
+        "Throttle": 100
+    },
+    {
+        "Time": 19.213,
+        "RPM": 10795,
+        "Speed": 272,
+        "Throttle": 100
+    },
+    {
+        "Time": 19.533,
+        "RPM": 10893,
+        "Speed": 274,
+        "Throttle": 100
+    },
+    {
+        "Time": 19.693,
+        "RPM": 10950,
+        "Speed": 275,
+        "Throttle": 100
+    },
+    {
+        "Time": 19.933,
+        "RPM": 11008,
+        "Speed": 277,
+        "Throttle": 100
+    },
+    {
+        "Time": 20.093,
+        "RPM": 11051,
+        "Speed": 279,
+        "Throttle": 100
+    },
+    {
+        "Time": 20.373,
+        "RPM": 11117,
+        "Speed": 280,
+        "Throttle": 100
+    },
+    {
+        "Time": 20.693,
+        "RPM": 11185,
+        "Speed": 282,
+        "Throttle": 100
+    },
+    {
+        "Time": 21.093,
+        "RPM": 11238,
+        "Speed": 284,
+        "Throttle": 100
+    },
+    {
+        "Time": 21.373,
+        "RPM": 11268,
+        "Speed": 285,
+        "Throttle": 100
+    },
+    {
+        "Time": 21.613,
+        "RPM": 11276,
+        "Speed": 286,
+        "Throttle": 100
+    },
+    {
+        "Time": 21.773,
+        "RPM": 11328,
+        "Speed": 286,
+        "Throttle": 100
+    },
+    {
+        "Time": 22.013,
+        "RPM": 10890,
+        "Speed": 281,
+        "Throttle": 3
+    },
+    {
+        "Time": 22.373,
+        "RPM": 9676,
+        "Speed": 251,
+        "Throttle": 0
+    },
+    {
+        "Time": 22.693,
+        "RPM": 10346,
+        "Speed": 203,
+        "Throttle": 0
+    },
+    {
+        "Time": 23.052,
+        "RPM": 10448,
+        "Speed": 179,
+        "Throttle": 0
+    },
+    {
+        "Time": 23.212,
+        "RPM": 9980,
+        "Speed": 163,
+        "Throttle": 0
+    },
+    {
+        "Time": 23.452,
+        "RPM": 8811,
+        "Speed": 151,
+        "Throttle": 0
+    },
+    {
+        "Time": 23.733,
+        "RPM": 8135,
+        "Speed": 139,
+        "Throttle": 0
+    },
+    {
+        "Time": 24.013,
+        "RPM": 7789,
+        "Speed": 133,
+        "Throttle": 0
+    },
+    {
+        "Time": 24.213,
+        "RPM": 7578,
+        "Speed": 130,
+        "Throttle": 0
+    },
+    {
+        "Time": 24.573,
+        "RPM": 7609,
+        "Speed": 124,
+        "Throttle": 4
+    },
+    {
+        "Time": 24.853,
+        "RPM": 7491,
+        "Speed": 122,
+        "Throttle": 32
+    },
+    {
+        "Time": 25.053,
+        "RPM": 7563,
+        "Speed": 124,
+        "Throttle": 42
+    },
+    {
+        "Time": 25.213,
+        "RPM": 7646,
+        "Speed": 125,
+        "Throttle": 44
+    },
+    {
+        "Time": 25.533,
+        "RPM": 7971,
+        "Speed": 130,
+        "Throttle": 57
+    },
+    {
+        "Time": 25.773,
+        "RPM": 8428,
+        "Speed": 135,
+        "Throttle": 60
+    },
+    {
+        "Time": 25.933,
+        "RPM": 8791,
+        "Speed": 135,
+        "Throttle": 59
+    },
+    {
+        "Time": 26.213,
+        "RPM": 9349,
+        "Speed": 150,
+        "Throttle": 83
+    },
+    {
+        "Time": 26.613,
+        "RPM": 10322,
+        "Speed": 167,
+        "Throttle": 100
+    },
+    {
+        "Time": 26.893,
+        "RPM": 11187,
+        "Speed": 167,
+        "Throttle": 100
+    },
+    {
+        "Time": 27.133,
+        "RPM": 11384,
+        "Speed": 183,
+        "Throttle": 100
+    },
+    {
+        "Time": 27.413,
+        "RPM": 10964,
+        "Speed": 194,
+        "Throttle": 100
+    },
+    {
+        "Time": 27.653,
+        "RPM": 10518,
+        "Speed": 199,
+        "Throttle": 100
+    },
+    {
+        "Time": 28.053,
+        "RPM": 11065,
+        "Speed": 214,
+        "Throttle": 100
+    },
+    {
+        "Time": 28.213,
+        "RPM": 11263,
+        "Speed": 214,
+        "Throttle": 100
+    },
+    {
+        "Time": 28.573,
+        "RPM": 11503,
+        "Speed": 226,
+        "Throttle": 100
+    },
+    {
+        "Time": 28.773,
+        "RPM": 11902,
+        "Speed": 232,
+        "Throttle": 100
+    },
+    {
+        "Time": 29.053,
+        "RPM": 10677,
+        "Speed": 235,
+        "Throttle": 100
+    },
+    {
+        "Time": 29.293,
+        "RPM": 10847,
+        "Speed": 240,
+        "Throttle": 100
+    },
+    {
+        "Time": 29.493,
+        "RPM": 11031,
+        "Speed": 244,
+        "Throttle": 100
+    },
+    {
+        "Time": 29.692,
+        "RPM": 11139,
+        "Speed": 247,
+        "Throttle": 100
+    },
+    {
+        "Time": 29.892,
+        "RPM": 10894,
+        "Speed": 247,
+        "Throttle": 39
+    },
+    {
+        "Time": 30.092,
+        "RPM": 10631,
+        "Speed": 236,
+        "Throttle": 0
+    },
+    {
+        "Time": 30.373,
+        "RPM": 9706,
+        "Speed": 223,
+        "Throttle": 0
+    },
+    {
+        "Time": 30.573,
+        "RPM": 10532,
+        "Speed": 214,
+        "Throttle": 0
+    },
+    {
+        "Time": 30.893,
+        "RPM": 10123,
+        "Speed": 203,
+        "Throttle": 7
+    },
+    {
+        "Time": 31.813,
+        "RPM": 10394,
+        "Speed": 196,
+        "Throttle": 82
+    },
+    {
+        "Time": 32.173,
+        "RPM": 10710,
+        "Speed": 203,
+        "Throttle": 100
+    },
+    {
+        "Time": 32.333,
+        "RPM": 10887,
+        "Speed": 207,
+        "Throttle": 100
+    },
+    {
+        "Time": 32.773,
+        "RPM": 10837,
+        "Speed": 218,
+        "Throttle": 73
+    },
+    {
+        "Time": 33.053,
+        "RPM": 9804,
+        "Speed": 218,
+        "Throttle": 55
+    },
+    {
+        "Time": 33.213,
+        "RPM": 9864,
+        "Speed": 218,
+        "Throttle": 71
+    },
+    {
+        "Time": 33.533,
+        "RPM": 10225,
+        "Speed": 223,
+        "Throttle": 89
+    },
+    {
+        "Time": 33.853,
+        "RPM": 10389,
+        "Speed": 227,
+        "Throttle": 100
+    },
+    {
+        "Time": 34.093,
+        "RPM": 10389,
+        "Speed": 233,
+        "Throttle": 100
+    },
+    {
+        "Time": 34.333,
+        "RPM": 10759,
+        "Speed": 238,
+        "Throttle": 100
+    },
+    {
+        "Time": 34.493,
+        "RPM": 10857,
+        "Speed": 240,
+        "Throttle": 100
+    },
+    {
+        "Time": 34.773,
+        "RPM": 11003,
+        "Speed": 245,
+        "Throttle": 100
+    },
+    {
+        "Time": 35.053,
+        "RPM": 11213,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 35.453,
+        "RPM": 10319,
+        "Speed": 234,
+        "Throttle": 0
+    },
+    {
+        "Time": 35.653,
+        "RPM": 9431,
+        "Speed": 234,
+        "Throttle": 0
+    },
+    {
+        "Time": 35.853,
+        "RPM": 9465,
+        "Speed": 205,
+        "Throttle": 0
+    },
+    {
+        "Time": 36.173,
+        "RPM": 9665,
+        "Speed": 166,
+        "Throttle": 0
+    },
+    {
+        "Time": 36.452,
+        "RPM": 10089,
+        "Speed": 141,
+        "Throttle": 0
+    },
+    {
+        "Time": 36.732,
+        "RPM": 8615,
+        "Speed": 128,
+        "Throttle": 0
+    },
+    {
+        "Time": 37.093,
+        "RPM": 7294,
+        "Speed": 104,
+        "Throttle": 0
+    },
+    {
+        "Time": 37.253,
+        "RPM": 7051,
+        "Speed": 100,
+        "Throttle": 0
+    },
+    {
+        "Time": 37.493,
+        "RPM": 6821,
+        "Speed": 98,
+        "Throttle": 0
+    },
+    {
+        "Time": 37.693,
+        "RPM": 6324,
+        "Speed": 91,
+        "Throttle": 0
+    },
+    {
+        "Time": 38.133,
+        "RPM": 5702,
+        "Speed": 85,
+        "Throttle": 0
+    },
+    {
+        "Time": 38.333,
+        "RPM": 5649,
+        "Speed": 80,
+        "Throttle": 0
+    },
+    {
+        "Time": 38.613,
+        "RPM": 5838,
+        "Speed": 77,
+        "Throttle": 16
+    },
+    {
+        "Time": 38.933,
+        "RPM": 6106,
+        "Speed": 79,
+        "Throttle": 25
+    },
+    {
+        "Time": 39.213,
+        "RPM": 6289,
+        "Speed": 84,
+        "Throttle": 34
+    },
+    {
+        "Time": 39.413,
+        "RPM": 6596,
+        "Speed": 86,
+        "Throttle": 41
+    },
+    {
+        "Time": 39.773,
+        "RPM": 7390,
+        "Speed": 93,
+        "Throttle": 52
+    },
+    {
+        "Time": 40.173,
+        "RPM": 8352,
+        "Speed": 109,
+        "Throttle": 69
+    },
+    {
+        "Time": 40.333,
+        "RPM": 8907,
+        "Speed": 109,
+        "Throttle": 74
+    },
+    {
+        "Time": 40.533,
+        "RPM": 9136,
+        "Speed": 121,
+        "Throttle": 82
+    },
+    {
+        "Time": 40.773,
+        "RPM": 10097,
+        "Speed": 131,
+        "Throttle": 98
+    },
+    {
+        "Time": 40.933,
+        "RPM": 11051,
+        "Speed": 142,
+        "Throttle": 100
+    },
+    {
+        "Time": 41.093,
+        "RPM": 11348,
+        "Speed": 153,
+        "Throttle": 100
+    },
+    {
+        "Time": 41.333,
+        "RPM": 11137,
+        "Speed": 162,
+        "Throttle": 100
+    },
+    {
+        "Time": 41.493,
+        "RPM": 10456,
+        "Speed": 170,
+        "Throttle": 100
+    },
+    {
+        "Time": 41.813,
+        "RPM": 11280,
+        "Speed": 182,
+        "Throttle": 100
+    },
+    {
+        "Time": 41.973,
+        "RPM": 11485,
+        "Speed": 186,
+        "Throttle": 100
+    },
+    {
+        "Time": 42.213,
+        "RPM": 11855,
+        "Speed": 196,
+        "Throttle": 100
+    },
+    {
+        "Time": 42.453,
+        "RPM": 12036,
+        "Speed": 202,
+        "Throttle": 100
+    },
+    {
+        "Time": 42.613,
+        "RPM": 11336,
+        "Speed": 210,
+        "Throttle": 100
+    },
+    {
+        "Time": 43.052,
+        "RPM": 11345,
+        "Speed": 218,
+        "Throttle": 100
+    },
+    {
+        "Time": 43.212,
+        "RPM": 11590,
+        "Speed": 226,
+        "Throttle": 100
+    },
+    {
+        "Time": 43.413,
+        "RPM": 11771,
+        "Speed": 230,
+        "Throttle": 100
+    },
+    {
+        "Time": 43.653,
+        "RPM": 11349,
+        "Speed": 232,
+        "Throttle": 100
+    },
+    {
+        "Time": 43.893,
+        "RPM": 10723,
+        "Speed": 239,
+        "Throttle": 100
+    },
+    {
+        "Time": 44.173,
+        "RPM": 10957,
+        "Speed": 243,
+        "Throttle": 100
+    },
+    {
+        "Time": 44.453,
+        "RPM": 11175,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 44.773,
+        "RPM": 11310,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 45.093,
+        "RPM": 11355,
+        "Speed": 255,
+        "Throttle": 76
+    },
+    {
+        "Time": 45.533,
+        "RPM": 10213,
+        "Speed": 240,
+        "Throttle": 0
+    },
+    {
+        "Time": 45.693,
+        "RPM": 9680,
+        "Speed": 218,
+        "Throttle": 0
+    },
+    {
+        "Time": 45.933,
+        "RPM": 10756,
+        "Speed": 210,
+        "Throttle": 0
+    },
+    {
+        "Time": 46.133,
+        "RPM": 11291,
+        "Speed": 187,
+        "Throttle": 0
+    },
+    {
+        "Time": 46.373,
+        "RPM": 11291,
+        "Speed": 187,
+        "Throttle": 0
+    },
+    {
+        "Time": 46.773,
+        "RPM": 10095,
+        "Speed": 143,
+        "Throttle": 0
+    },
+    {
+        "Time": 47.013,
+        "RPM": 8949,
+        "Speed": 126,
+        "Throttle": 0
+    },
+    {
+        "Time": 47.213,
+        "RPM": 8210,
+        "Speed": 116,
+        "Throttle": 0
+    },
+    {
+        "Time": 47.493,
+        "RPM": 7288,
+        "Speed": 107,
+        "Throttle": 0
+    },
+    {
+        "Time": 47.813,
+        "RPM": 6384,
+        "Speed": 91,
+        "Throttle": 0
+    },
+    {
+        "Time": 48.053,
+        "RPM": 5830,
+        "Speed": 89,
+        "Throttle": 0
+    },
+    {
+        "Time": 48.253,
+        "RPM": 5510,
+        "Speed": 82,
+        "Throttle": 0
+    },
+    {
+        "Time": 48.533,
+        "RPM": 5355,
+        "Speed": 77,
+        "Throttle": 0
+    },
+    {
+        "Time": 48.813,
+        "RPM": 5696,
+        "Speed": 76,
+        "Throttle": 11
+    },
+    {
+        "Time": 49.053,
+        "RPM": 5927,
+        "Speed": 74,
+        "Throttle": 25
+    },
+    {
+        "Time": 49.373,
+        "RPM": 6057,
+        "Speed": 79,
+        "Throttle": 31
+    },
+    {
+        "Time": 49.573,
+        "RPM": 6236,
+        "Speed": 80,
+        "Throttle": 41
+    },
+    {
+        "Time": 49.812,
+        "RPM": 6792,
+        "Speed": 87,
+        "Throttle": 48
+    },
+    {
+        "Time": 50.053,
+        "RPM": 7381,
+        "Speed": 96,
+        "Throttle": 61
+    },
+    {
+        "Time": 50.373,
+        "RPM": 7941,
+        "Speed": 104,
+        "Throttle": 74
+    },
+    {
+        "Time": 50.573,
+        "RPM": 8929,
+        "Speed": 112,
+        "Throttle": 89
+    },
+    {
+        "Time": 50.853,
+        "RPM": 10224,
+        "Speed": 128,
+        "Throttle": 100
+    },
+    {
+        "Time": 51.853,
+        "RPM": 11089,
+        "Speed": 177,
+        "Throttle": 100
+    },
+    {
+        "Time": 52.093,
+        "RPM": 11522,
+        "Speed": 189,
+        "Throttle": 100
+    },
+    {
+        "Time": 52.613,
+        "RPM": 10814,
+        "Speed": 205,
+        "Throttle": 100
+    },
+    {
+        "Time": 52.773,
+        "RPM": 10974,
+        "Speed": 208,
+        "Throttle": 100
+    },
+    {
+        "Time": 52.933,
+        "RPM": 11202,
+        "Speed": 214,
+        "Throttle": 100
+    },
+    {
+        "Time": 53.173,
+        "RPM": 11466,
+        "Speed": 220,
+        "Throttle": 100
+    },
+    {
+        "Time": 53.333,
+        "RPM": 11571,
+        "Speed": 225,
+        "Throttle": 100
+    },
+    {
+        "Time": 53.653,
+        "RPM": 10546,
+        "Speed": 231,
+        "Throttle": 100
+    },
+    {
+        "Time": 54.013,
+        "RPM": 10879,
+        "Speed": 240,
+        "Throttle": 100
+    },
+    {
+        "Time": 54.373,
+        "RPM": 11141,
+        "Speed": 245,
+        "Throttle": 100
+    },
+    {
+        "Time": 54.613,
+        "RPM": 11160,
+        "Speed": 249,
+        "Throttle": 100
+    },
+    {
+        "Time": 54.813,
+        "RPM": 11425,
+        "Speed": 255,
+        "Throttle": 100
+    },
+    {
+        "Time": 55.093,
+        "RPM": 11523,
+        "Speed": 257,
+        "Throttle": 100
+    },
+    {
+        "Time": 55.373,
+        "RPM": 11662,
+        "Speed": 261,
+        "Throttle": 100
+    },
+    {
+        "Time": 55.613,
+        "RPM": 10438,
+        "Speed": 264,
+        "Throttle": 100
+    },
+    {
+        "Time": 55.773,
+        "RPM": 10438,
+        "Speed": 265,
+        "Throttle": 100
+    },
+    {
+        "Time": 56.013,
+        "RPM": 10713,
+        "Speed": 268,
+        "Throttle": 100
+    },
+    {
+        "Time": 56.253,
+        "RPM": 10852,
+        "Speed": 270,
+        "Throttle": 100
+    },
+    {
+        "Time": 56.532,
+        "RPM": 10924,
+        "Speed": 273,
+        "Throttle": 100
+    },
+    {
+        "Time": 56.813,
+        "RPM": 11028,
+        "Speed": 276,
+        "Throttle": 100
+    },
+    {
+        "Time": 57.013,
+        "RPM": 11068,
+        "Speed": 278,
+        "Throttle": 100
+    },
+    {
+        "Time": 57.293,
+        "RPM": 11122,
+        "Speed": 280,
+        "Throttle": 100
+    },
+    {
+        "Time": 57.573,
+        "RPM": 11167,
+        "Speed": 282,
+        "Throttle": 100
+    },
+    {
+        "Time": 57.853,
+        "RPM": 11299,
+        "Speed": 284,
+        "Throttle": 100
+    },
+    {
+        "Time": 58.173,
+        "RPM": 11288,
+        "Speed": 286,
+        "Throttle": 100
+    },
+    {
+        "Time": 58.413,
+        "RPM": 11357,
+        "Speed": 287,
+        "Throttle": 100
+    },
+    {
+        "Time": 58.613,
+        "RPM": 11384,
+        "Speed": 288,
+        "Throttle": 100
+    },
+    {
+        "Time": 58.813,
+        "RPM": 11337,
+        "Speed": 288,
+        "Throttle": 100
+    },
+    {
+        "Time": 58.973,
+        "RPM": 10777,
+        "Speed": 288,
+        "Throttle": 1
+    },
+    {
+        "Time": 59.133,
+        "RPM": 10910,
+        "Speed": 273,
+        "Throttle": 0
+    },
+    {
+        "Time": 59.413,
+        "RPM": 10496,
+        "Speed": 252,
+        "Throttle": 0
+    },
+    {
+        "Time": 59.653,
+        "RPM": 10451,
+        "Speed": 231,
+        "Throttle": 0
+    },
+    {
+        "Time": 59.853,
+        "RPM": 10540,
+        "Speed": 213,
+        "Throttle": 0
+    },
+    {
+        "Time": 60.173,
+        "RPM": 10777,
+        "Speed": 190,
+        "Throttle": 0
+    },
+    {
+        "Time": 60.453,
+        "RPM": 10082,
+        "Speed": 174,
+        "Throttle": 0
+    },
+    {
+        "Time": 60.773,
+        "RPM": 9881,
+        "Speed": 170,
+        "Throttle": 0
+    },
+    {
+        "Time": 61.013,
+        "RPM": 9536,
+        "Speed": 163,
+        "Throttle": 3
+    },
+    {
+        "Time": 61.453,
+        "RPM": 9513,
+        "Speed": 156,
+        "Throttle": 60
+    },
+    {
+        "Time": 61.933,
+        "RPM": 10062,
+        "Speed": 163,
+        "Throttle": 71
+    },
+    {
+        "Time": 62.333,
+        "RPM": 10851,
+        "Speed": 171,
+        "Throttle": 90
+    },
+    {
+        "Time": 62.693,
+        "RPM": 9698,
+        "Speed": 182,
+        "Throttle": 100
+    },
+    {
+        "Time": 62.853,
+        "RPM": 9698,
+        "Speed": 188,
+        "Throttle": 100
+    },
+    {
+        "Time": 63.013,
+        "RPM": 10341,
+        "Speed": 192,
+        "Throttle": 100
+    },
+    {
+        "Time": 63.333,
+        "RPM": 10702,
+        "Speed": 201,
+        "Throttle": 100
+    },
+    {
+        "Time": 63.533,
+        "RPM": 10851,
+        "Speed": 208,
+        "Throttle": 100
+    },
+    {
+        "Time": 63.973,
+        "RPM": 11295,
+        "Speed": 215,
+        "Throttle": 100
+    },
+    {
+        "Time": 64.293,
+        "RPM": 11512,
+        "Speed": 224,
+        "Throttle": 100
+    },
+    {
+        "Time": 64.533,
+        "RPM": 11766,
+        "Speed": 227,
+        "Throttle": 100
+    },
+    {
+        "Time": 64.813,
+        "RPM": 10611,
+        "Speed": 232,
+        "Throttle": 100
+    },
+    {
+        "Time": 64.973,
+        "RPM": 10749,
+        "Speed": 234,
+        "Throttle": 100
+    },
+    {
+        "Time": 65.413,
+        "RPM": 10998,
+        "Speed": 241,
+        "Throttle": 100
+    },
+    {
+        "Time": 65.693,
+        "RPM": 11202,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 65.893,
+        "RPM": 11258,
+        "Speed": 248,
+        "Throttle": 100
+    },
+    {
+        "Time": 66.133,
+        "RPM": 11345,
+        "Speed": 252,
+        "Throttle": 100
+    },
+    {
+        "Time": 66.453,
+        "RPM": 11489,
+        "Speed": 255,
+        "Throttle": 98
+    },
+    {
+        "Time": 66.733,
+        "RPM": 11628,
+        "Speed": 257,
+        "Throttle": 95
+    },
+    {
+        "Time": 67.053,
+        "RPM": 10282,
+        "Speed": 258,
+        "Throttle": 83
+    },
+    {
+        "Time": 67.413,
+        "RPM": 10236,
+        "Speed": 256,
+        "Throttle": 85
+    },
+    {
+        "Time": 67.653,
+        "RPM": 10236,
+        "Speed": 256,
+        "Throttle": 86
+    },
+    {
+        "Time": 67.813,
+        "RPM": 10326,
+        "Speed": 256,
+        "Throttle": 91
+    },
+    {
+        "Time": 68.053,
+        "RPM": 10324,
+        "Speed": 256,
+        "Throttle": 92
+    },
+    {
+        "Time": 68.253,
+        "RPM": 10361,
+        "Speed": 257,
+        "Throttle": 96
+    },
+    {
+        "Time": 68.453,
+        "RPM": 10364,
+        "Speed": 258,
+        "Throttle": 96
+    },
+    {
+        "Time": 68.733,
+        "RPM": 10467,
+        "Speed": 260,
+        "Throttle": 96
+    },
+    {
+        "Time": 68.933,
+        "RPM": 10480,
+        "Speed": 262,
+        "Throttle": 96
+    },
+    {
+        "Time": 69.373,
+        "RPM": 10582,
+        "Speed": 265,
+        "Throttle": 73
+    },
+    {
+        "Time": 69.533,
+        "RPM": 10319,
+        "Speed": 265,
+        "Throttle": 62
+    },
+    {
+        "Time": 69.854,
+        "RPM": 9758,
+        "Speed": 255,
+        "Throttle": 0
+    },
+    {
+        "Time": 70.173,
+        "RPM": 9443,
+        "Speed": 228,
+        "Throttle": 0
+    },
+    {
+        "Time": 70.373,
+        "RPM": 9969,
+        "Speed": 209,
+        "Throttle": 0
+    },
+    {
+        "Time": 70.773,
+        "RPM": 10033,
+        "Speed": 178,
+        "Throttle": 0
+    },
+    {
+        "Time": 71.173,
+        "RPM": 8992,
+        "Speed": 162,
+        "Throttle": 0
+    },
+    {
+        "Time": 71.413,
+        "RPM": 8740,
+        "Speed": 150,
+        "Throttle": 0
+    },
+    {
+        "Time": 71.693,
+        "RPM": 8551,
+        "Speed": 146,
+        "Throttle": 1
+    },
+    {
+        "Time": 71.973,
+        "RPM": 8318,
+        "Speed": 141,
+        "Throttle": 5
+    },
+    {
+        "Time": 72.213,
+        "RPM": 8452,
+        "Speed": 138,
+        "Throttle": 36
+    },
+    {
+        "Time": 72.413,
+        "RPM": 8851,
+        "Speed": 140,
+        "Throttle": 53
+    },
+    {
+        "Time": 72.573,
+        "RPM": 8607,
+        "Speed": 142,
+        "Throttle": 50
+    },
+    {
+        "Time": 72.853,
+        "RPM": 9310,
+        "Speed": 142,
+        "Throttle": 68
+    },
+    {
+        "Time": 73.093,
+        "RPM": 9543,
+        "Speed": 154,
+        "Throttle": 78
+    },
+    {
+        "Time": 73.373,
+        "RPM": 10543,
+        "Speed": 165,
+        "Throttle": 99
+    },
+    {
+        "Time": 73.573,
+        "RPM": 10918,
+        "Speed": 169,
+        "Throttle": 100
+    },
+    {
+        "Time": 73.853,
+        "RPM": 11418,
+        "Speed": 181,
+        "Throttle": 100
+    },
+    {
+        "Time": 74.093,
+        "RPM": 11026,
+        "Speed": 193,
+        "Throttle": 100
+    },
+    {
+        "Time": 74.253,
+        "RPM": 10522,
+        "Speed": 196,
+        "Throttle": 100
+    },
+    {
+        "Time": 74.573,
+        "RPM": 10958,
+        "Speed": 209,
+        "Throttle": 100
+    },
+    {
+        "Time": 74.733,
+        "RPM": 11153,
+        "Speed": 212,
+        "Throttle": 100
+    },
+    {
+        "Time": 74.973,
+        "RPM": 11309,
+        "Speed": 217,
+        "Throttle": 100
+    },
+    {
+        "Time": 75.173,
+        "RPM": 11539,
+        "Speed": 223,
+        "Throttle": 100
+    },
+    {
+        "Time": 75.373,
+        "RPM": 11666,
+        "Speed": 227,
+        "Throttle": 100
+    },
+    {
+        "Time": 75.613,
+        "RPM": 10736,
+        "Speed": 234,
+        "Throttle": 100
+    },
+    {
+        "Time": 75.893,
+        "RPM": 10892,
+        "Speed": 240,
+        "Throttle": 100
+    },
+    {
+        "Time": 76.173,
+        "RPM": 11121,
+        "Speed": 245,
+        "Throttle": 100
+    },
+    {
+        "Time": 76.534,
+        "RPM": 11297,
+        "Speed": 251,
+        "Throttle": 100
+    },
+    {
+        "Time": 76.853,
+        "RPM": 11482,
+        "Speed": 256,
+        "Throttle": 100
+    },
+    {
+        "Time": 77.013,
+        "RPM": 11544,
+        "Speed": 259,
+        "Throttle": 100
+    },
+    {
+        "Time": 77.213,
+        "RPM": 11364,
+        "Speed": 262,
+        "Throttle": 100
+    },
+    {
+        "Time": 77.373,
+        "RPM": 10336,
+        "Speed": 262,
+        "Throttle": 100
+    },
+    {
+        "Time": 77.573,
+        "RPM": 10681,
+        "Speed": 265,
+        "Throttle": 100
+    },
+    {
+        "Time": 77.773,
+        "RPM": 10697,
+        "Speed": 268,
+        "Throttle": 100
+    },
+    {
+        "Time": 78.093,
+        "RPM": 10842,
+        "Speed": 272,
+        "Throttle": 100
+    },
+    {
+        "Time": 78.253,
+        "RPM": 10965,
+        "Speed": 274,
+        "Throttle": 100
+    },
+    {
+        "Time": 78.413,
+        "RPM": 10984,
+        "Speed": 275,
+        "Throttle": 100
+    },
+    {
+        "Time": 78.693,
+        "RPM": 11014,
+        "Speed": 279,
+        "Throttle": 100
+    },
+    {
+        "Time": 78.893,
+        "RPM": 11139,
+        "Speed": 279,
+        "Throttle": 100
+    },
+    {
+        "Time": 79.093,
+        "RPM": 11158,
+        "Speed": 283,
+        "Throttle": 100
+    },
+    {
+        "Time": 79.253,
+        "RPM": 11264,
+        "Speed": 283,
+        "Throttle": 100
+    },
+    {
+        "Time": 79.573,
+        "RPM": 11341,
+        "Speed": 285,
+        "Throttle": 100
+    },
+    {
+        "Time": 79.853,
+        "RPM": 11372,
+        "Speed": 287,
+        "Throttle": 100
+    },
+    {
+        "Time": 80.093,
+        "RPM": 11452,
+        "Speed": 289,
+        "Throttle": 100
+    },
+    {
+        "Time": 80.373,
+        "RPM": 11486,
+        "Speed": 291,
+        "Throttle": 100
+    },
+    {
+        "Time": 80.573,
+        "RPM": 11515,
+        "Speed": 291,
+        "Throttle": 100
+    },
+    {
+        "Time": 80.813,
+        "RPM": 11567,
+        "Speed": 293,
+        "Throttle": 100
+    },
+    {
+        "Time": 80.973,
+        "RPM": 11529,
+        "Speed": 293,
+        "Throttle": 100
+    },
+    {
+        "Time": 81.213,
+        "RPM": 11544,
+        "Speed": 294,
+        "Throttle": 100
+    },
+    {
+        "Time": 81.453,
+        "RPM": 11565,
+        "Speed": 294,
+        "Throttle": 100
+    },
+    {
+        "Time": 81.773,
+        "RPM": 11592,
+        "Speed": 295,
+        "Throttle": 89
+    },
+    {
+        "Time": 82.013,
+        "RPM": 11507,
+        "Speed": 292,
+        "Throttle": 0
+    },
+    {
+        "Time": 82.413,
+        "RPM": 9905,
+        "Speed": 258,
+        "Throttle": 0
+    },
+    {
+        "Time": 82.813,
+        "RPM": 10881,
+        "Speed": 211,
+        "Throttle": 0
+    },
+    {
+        "Time": 83.134,
+        "RPM": 9855,
+        "Speed": 183,
+        "Throttle": 0
+    },
+    {
+        "Time": 83.413,
+        "RPM": 9251,
+        "Speed": 158,
+        "Throttle": 0
+    },
+    {
+        "Time": 83.573,
+        "RPM": 8691,
+        "Speed": 152,
+        "Throttle": 0
+    },
+    {
+        "Time": 83.813,
+        "RPM": 8280,
+        "Speed": 143,
+        "Throttle": 0
+    },
+    {
+        "Time": 84.253,
+        "RPM": 7441,
+        "Speed": 131,
+        "Throttle": 0
+    },
+    {
+        "Time": 84.453,
+        "RPM": 7272,
+        "Speed": 125,
+        "Throttle": 0
+    },
+    {
+        "Time": 84.693,
+        "RPM": 7659,
+        "Speed": 121,
+        "Throttle": 28
+    },
+    {
+        "Time": 85.093,
+        "RPM": 7807,
+        "Speed": 124,
+        "Throttle": 50
+    },
+    {
+        "Time": 85.293,
+        "RPM": 7957,
+        "Speed": 127,
+        "Throttle": 55
+    },
+    {
+        "Time": 85.493,
+        "RPM": 8275,
+        "Speed": 131,
+        "Throttle": 62
+    },
+    {
+        "Time": 85.653,
+        "RPM": 8497,
+        "Speed": 134,
+        "Throttle": 72
+    },
+    {
+        "Time": 85.853,
+        "RPM": 9107,
+        "Speed": 141,
+        "Throttle": 92
+    },
+    {
+        "Time": 86.053,
+        "RPM": 9823,
+        "Speed": 149,
+        "Throttle": 100
+    },
+    {
+        "Time": 86.333,
+        "RPM": 10446,
+        "Speed": 162,
+        "Throttle": 100
+    },
+    {
+        "Time": 86.493,
+        "RPM": 10725,
+        "Speed": 171,
+        "Throttle": 100
+    },
+    {
+        "Time": 86.893,
+        "RPM": 11471,
+        "Speed": 186,
+        "Throttle": 100
+    },
+    {
+        "Time": 87.133,
+        "RPM": 10242,
+        "Speed": 194,
+        "Throttle": 100
+    },
+    {
+        "Time": 87.573,
+        "RPM": 10839,
+        "Speed": 206,
+        "Throttle": 100
+    },
+    {
+        "Time": 87.973,
+        "RPM": 11378,
+        "Speed": 218,
+        "Throttle": 100
+    },
+    {
+        "Time": 88.213,
+        "RPM": 11711,
+        "Speed": 223,
+        "Throttle": 100
+    },
+    {
+        "Time": 88.573,
+        "RPM": 10612,
+        "Speed": 233,
+        "Throttle": 100
+    },
+    {
+        "Time": 88.733,
+        "RPM": 10860,
+        "Speed": 236,
+        "Throttle": 100
+    },
+    {
+        "Time": 89.213,
+        "RPM": 11140,
+        "Speed": 245,
+        "Throttle": 100
+    },
+    {
+        "Time": 89.454,
+        "RPM": 11329,
+        "Speed": 250,
+        "Throttle": 100
+    },
+    {
+        "Time": 89.774,
+        "RPM": 11433,
+        "Speed": 255,
+        "Throttle": 100
+    },
+    {
+        "Time": 89.934,
+        "RPM": 11563,
+        "Speed": 257,
+        "Throttle": 100
+    },
+    {
+        "Time": 90.173,
+        "RPM": 11657,
+        "Speed": 261,
+        "Throttle": 100
+    },
+    {
+        "Time": 90.373,
+        "RPM": 11241,
+        "Speed": 262,
+        "Throttle": 100
+    },
+    {
+        "Time": 90.773,
+        "RPM": 10737,
+        "Speed": 267,
+        "Throttle": 100
+    },
+    {
+        "Time": 90.973,
+        "RPM": 10790,
+        "Speed": 269,
+        "Throttle": 100
+    },
+    {
+        "Time": 91.213,
+        "RPM": 10911,
+        "Speed": 273,
+        "Throttle": 100
+    },
+    {
+        "Time": 91.493,
+        "RPM": 10991,
+        "Speed": 275,
+        "Throttle": 100
+    },
+    {
+        "Time": 91.813,
+        "RPM": 11056,
+        "Speed": 278,
+        "Throttle": 100
+    },
+    {
+        "Time": 91.973,
+        "RPM": 11124,
+        "Speed": 279,
+        "Throttle": 100
+    },
+    {
+        "Time": 92.133,
+        "RPM": 11140,
+        "Speed": 281,
+        "Throttle": 100
+    },
+    {
+        "Time": 92.493,
+        "RPM": 11234,
+        "Speed": 283,
+        "Throttle": 100
+    }
+]
