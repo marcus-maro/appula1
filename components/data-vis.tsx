@@ -1,3 +1,5 @@
+"use client";
+
 import ReactECharts from "echarts-for-react";
 
 import fastestLap from "@/data/fastest-lap.json";
