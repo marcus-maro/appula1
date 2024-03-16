@@ -1,15 +1,14 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 import { ModeToggle } from "@/components/mode-toggle";
-import { ThemeProvider } from "@/components/theme-provider";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
 
 import { RaceCard } from "@/components/cards";
-import { FastestLap, TrackMap } from "./components/data-vis";
+import { FastestLap, TrackMap } from "@/components/data-vis";
 import { RaceResultsTable } from "@/components/tables";
 
-function App() {
+export default function Home() {
   return (
-    <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
+    <div>
       <div className="flex flex-row gap-2 p-4">
         <ModeToggle />
         <Button>Click me</Button>
@@ -30,8 +29,6 @@ function App() {
         </Card>
         <RaceResultsTable />
       </div>
-    </ThemeProvider>
+    </div>
   );
 }
-
-export default App;
