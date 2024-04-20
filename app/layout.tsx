@@ -3,8 +3,9 @@ import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
 import Link from "next/link";
 
-import { Home, Menu } from "lucide-react";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Home, Menu } from "lucide-react";
 
 import { ModeToggle } from "@/components/mode-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -99,6 +100,7 @@ export default function RootLayout({
           </div>
         </ThemeProvider>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
