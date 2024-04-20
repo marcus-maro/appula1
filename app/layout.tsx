@@ -3,7 +3,8 @@ import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
 import Link from "next/link";
 
-import { Menu, Home } from "lucide-react";
+import { Home, Menu } from "lucide-react";
+import { Analytics } from "@vercel/analytics/react";
 
 import { ModeToggle } from "@/components/mode-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -97,6 +98,7 @@ export default function RootLayout({
             </main>
           </div>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
