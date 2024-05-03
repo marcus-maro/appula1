@@ -5,7 +5,7 @@ export default async function Drivers() {
   return (
     <ul>
       {drivers.map((driver) => (
-        <li key={driver.driverId}>{JSON.stringify(drivers)}</li>
+        <li key={driver.driverId}>{JSON.stringify(driver)}</li>
       ))}
     </ul>
   );
