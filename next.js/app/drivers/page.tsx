@@ -1,3 +1,12 @@
-export default function Drivers() {
-  return <h1>Drivers</h1>;
+import { getDrivers } from "@/db/query";
+
+export default async function Drivers() {
+  const drivers = await getDrivers();
+  return (
+    <ul>
+      {drivers.map((driver) => (
+        <li key={driver.driverId}>{JSON.stringify(drivers)}</li>
+      ))}
+    </ul>
+  );
 }
