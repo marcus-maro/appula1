@@ -4,10 +4,9 @@ import postgres from "postgres";
 
 import "../envConfig.ts";
 
-const migrationClient = postgres(
-  process.env.DATABASE_CONNECTION_STRING as string,
-  { max: 1 }
-);
+const migrationClient = postgres(process.env.POSTGRES_URL as string, {
+  max: 1,
+});
 
 async function main() {
   await migrate(drizzle(migrationClient), {
