@@ -1,20 +1,20 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { getRace } from "@/db/query";
 import { MapPin } from "lucide-react";
 
-import race from "@/data/race.json";
+export const RaceCard = async () => {
+  const race = await getRace(3);
 
-export const RaceCard = () => {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>{race.OfficialEventName}</CardTitle>
+        <CardTitle>{race.nameOfficial}</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="flex flex-row gap-2 items-center text-xl pb-2">
           <MapPin size={20} />
-          {race.Location}, {race.Country}
+          {race.city}, {race.country}
         </div>
-        <p className="text-lg">{race.EventDate}</p>
       </CardContent>
     </Card>
   );
