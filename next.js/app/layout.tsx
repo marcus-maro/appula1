@@ -84,6 +84,12 @@ export default function RootLayout({
                     >
                       Drivers
                     </Link>
+                    <Link
+                      href="/races"
+                      className="text-muted-foreground hover:text-foreground"
+                    >
+                      Races
+                    </Link>
                   </nav>
                 </SheetContent>
               </Sheet>
