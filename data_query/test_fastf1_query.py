@@ -40,3 +40,21 @@ def test_get_driver_info():
         + " "
         + driver_info["name_last"].str.upper()
     ).all()
+
+
+def test_get_event_schedule():
+    event_schedule = f1q.get_event_schedule(2024)
+
+    # Check that the DataFrame has the expected columns
+    assert set(event_schedule.columns) == {
+        "name",
+        "name_official",
+        "round",
+        "year",
+        "country",
+        "city",
+    }
+
+    # Check that the DataFrame has the expected data types
+    assert event_schedule["year"].dtype == int
+    assert event_schedule["round"].dtype == int

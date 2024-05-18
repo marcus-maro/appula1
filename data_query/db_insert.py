@@ -35,7 +35,46 @@ def insert_driver_info(session: fastf1.core.Session) -> None:
                 )
 
 
-session = fastf1.get_session(2024, "Bahrain", "R")
-session.load()
+def insert_event_schedule(year: int) -> None:
+    df_event_schedule = fastf1_query.get_event_schedule(year)
 
-insert_driver_info(session)
+    with psycopg2.connect(os.environ["DSN"]) as conn:
+        with conn.cursor() as cur:
+            for _, row in df_event_schedule.iterrows():
+                cur.execute(
+                    """
+                    INSERT INTO races
+                    (year, round_number, name, name_official, country, city)
+                    VALUES (%s, %s, %s, %s, %s, %s)
+                    """,
+                    (
+                        row["year"],
+                        row["round"],
+                        row["name"],
+                        row["name_official"],
+                        row["country"],
+                        row["city"],
+                    ),
+                )
+
+
+def update_event_schedule(year: int) -> None:
+    df_event_schedule = fastf1_query.get_event_schedule(year)
+
+    with psycopg2.connect(os.environ["DSN"]) as conn:
+        with conn.cursor() as cur:
+            for _, row in df_event_schedule.iterrows():
+                cur.execute(
+                    """
+                    UPDATE races
+                    SET name_official = %s, country = %s, city = %s
+                    WHERE year = %s AND round_number = %s
+                    """,
+                    (
+                        row["name_official"],
+                        row["country"],
+                        row["city"],
+                        row["year"],
+                        row["round"],
+                    ),
+                )

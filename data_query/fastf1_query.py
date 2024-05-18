@@ -21,3 +21,28 @@ def get_driver_info(session: fastf1.core.Session) -> pd.DataFrame:
     results["number"] = results["number"].astype(int)
 
     return results
+
+
+def get_event_schedule(year: int) -> pd.DataFrame:
+    df = fastf1.get_event_schedule(year)
+
+    column_mapping = {
+        "EventName": "name",
+        "OfficialEventName": "name_official",
+        "RoundNumber": "round",
+        "Country": "country",
+        "Location": "city",
+    }
+
+    df = df[column_mapping.keys()]
+    df = df.rename(columns=column_mapping)
+    df.insert(3, "year", year)
+
+    df["name_official"] = (
+        df["name_official"].str.replace("FORMULA 1 ", "").str.replace(f" {year}", "")
+    )
+
+    # Manual corrections
+    df["country"] = df["country"].replace({"Las Vegas": "United States"})
+
+    return df
