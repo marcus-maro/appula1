@@ -11,6 +11,7 @@ def test_get_driver_info():
 
     # Check that the DataFrame has the expected columns
     assert set(driver_info.columns) == {
+        "slug",
         "name_full",
         "name_first",
         "name_last",
@@ -19,17 +20,16 @@ def test_get_driver_info():
         "country_code",
         "headshot_url",
         "number",
-        "driver_id",
     }
 
     # Check that the DataFrame has the expected data types
     assert driver_info["number"].dtype == int
 
-    # Check that the driver_id is correctly generated
+    # Check that the slug is correctly generated
     assert (
-        driver_info["driver_id"]
+        driver_info["slug"]
         == driver_info["name_first"].str.lower()
-        + "_"
+        + "-"
         + driver_info["name_last"].str.lower()
     ).all()
 
@@ -47,6 +47,7 @@ def test_get_event_schedule():
 
     # Check that the DataFrame has the expected columns
     assert set(event_schedule.columns) == {
+        "slug",
         "name",
         "name_official",
         "round",

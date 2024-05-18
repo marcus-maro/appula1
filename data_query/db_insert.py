@@ -18,12 +18,11 @@ def insert_driver_info(session: fastf1.core.Session) -> None:
                 cur.execute(
                     """
                     INSERT INTO drivers
-                    (driver_id, name_full, name_first, name_last, name_broadcast, country_code, headshot_url, number)
-                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-                    ON CONFLICT (driver_id) DO NOTHING
+                    (slug, name_full, name_first, name_last, name_broadcast, country_code, headshot_url, number)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s);
                     """,
                     (
-                        row["driver_id"],
+                        row["slug"],
                         row["name_full"],
                         row["name_first"],
                         row["name_last"],
@@ -44,10 +43,11 @@ def insert_event_schedule(year: int) -> None:
                 cur.execute(
                     """
                     INSERT INTO races
-                    (year, round_number, name, name_official, country, city)
-                    VALUES (%s, %s, %s, %s, %s, %s)
+                    (slug, year, round_number, name, name_official, country, city)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s);
                     """,
                     (
+                        row["slug"],
                         row["year"],
                         row["round"],
                         row["name"],
