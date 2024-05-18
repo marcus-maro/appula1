@@ -29,6 +29,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const linkClassName =
+    "text-muted-foreground transition-colors hover:text-foreground";
+
   return (
     <html lang="en">
       <body
@@ -53,17 +56,14 @@ export default function RootLayout({
                   <Home className="h-6 w-6" />
                   <span className="sr-only">Appula One</span>
                 </Link>
-                <Link
-                  href="/drivers"
-                  className="text-muted-foreground transition-colors hover:text-foreground"
-                >
+                <Link href="/drivers" className={linkClassName}>
                   Drivers
                 </Link>
-                <Link
-                  href="/standings"
-                  className="text-muted-foreground transition-colors hover:text-foreground"
-                >
+                <Link href="/standings" className={linkClassName}>
                   Standings
+                </Link>
+                <Link href="/races" className={linkClassName}>
+                  Races
                 </Link>
               </nav>
               <Sheet>
