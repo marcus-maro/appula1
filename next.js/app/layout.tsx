@@ -59,9 +59,6 @@ export default function RootLayout({
                 <Link href="/drivers" className={linkClassName}>
                   Drivers
                 </Link>
-                <Link href="/standings" className={linkClassName}>
-                  Standings
-                </Link>
                 <Link href="/races" className={linkClassName}>
                   Races
                 </Link>
