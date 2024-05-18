@@ -1,6 +1,7 @@
 import fastf1
 import pandas as pd
 
+
 def get_driver_info(session: fastf1.core.Session) -> pd.DataFrame:
     results = session.results
 
@@ -17,7 +18,9 @@ def get_driver_info(session: fastf1.core.Session) -> pd.DataFrame:
 
     results = results[column_mapping.keys()]
     results = results.rename(columns=column_mapping)
-    results["driver_id"] = (results["name_first"] + "_" + results["name_last"]).str.lower()
+    results["driver_id"] = (
+        results["name_first"] + "_" + results["name_last"]
+    ).str.lower()
     results["number"] = results["number"].astype(int)
 
     return results
